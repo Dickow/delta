@@ -1,0 +1,7 @@
+{
+  "simpleInnerObject": {
+    "name": "Hey there"
+  },
+  "otherField": null,
+  "deltaList": ["Hello", "World"]
+}
